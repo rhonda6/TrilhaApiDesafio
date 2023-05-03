@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql1": {
+      "secretStore": null,
+      "type": "mssql.local",
+      "connectionId": "DESKTOP-3TJI641:SQLEXPRESS",
+      "dynamicId": null
+    }
+  }
+}
